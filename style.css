@@ -41,10 +41,10 @@ header {
     }
 
 #perfil {
-    max-width: auto;
     height: 100vh;
-    object-fit: cover;
+    width: auto;
     border-radius: 5px;
+  
 }
 p {
     text-align: justify;
