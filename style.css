@@ -41,7 +41,9 @@ header {
     }
 
 #perfil {
+    max-width: auto;
     height: 100vh;
+    object-fit: cover;
     border-radius: 5px;
 }
 p {
